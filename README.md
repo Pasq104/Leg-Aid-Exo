@@ -88,7 +88,7 @@ All documents remain under their original licenses (e.g., CC BY-ND 4.0).
 The leg-aid-exo project builds upon the OpenExo software ecosystem.  
 Full documentation, source code, and technical details for the control framework can be found here:
 
-🔗 https://github.com/OpenExoProject/OpenExo
+🔗 https://github.com/naubiomech/OpenExo/tree/main?tab=readme-ov-file
 
 ---
 
