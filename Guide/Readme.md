@@ -22,6 +22,13 @@ All documents stored here support the mechanical, electrical, and software devel
   Original OpenExo scientific documentation and validation reports.
 
 ---
+## Licensing Notice
+The PDF documents in this folder are part of the OpenExo open-source project and are redistributed under the **CC BY-ND 4.0 License**.  
+All copyrights belong to the original authors.  
+No modifications have been made to the original files.
+
+License: https://creativecommons.org/licenses/by-nd/4.0/
+
 
 ## 📚 Included Documents (Examples)
 
