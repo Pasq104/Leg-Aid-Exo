@@ -24,7 +24,12 @@ The system follows the OpenExo modular architecture:
 
 - **Teensy 4.1** → high-speed control loop (C++/Arduino)  
 - **Arduino Nano BLE 33** → Bluetooth communication  
-- **Python API** → GUI control, data collection, parameter tuning  
+- **Python API** → GUI control, data collection, parameter tuning
+
+## External Software Documentation
+For full details on the control framework and API, refer to:
+
+🔗 https://github.com/naubiomech/OpenExo/tree/main?tab=readme-ov-file
 
 The architecture uses:
 
