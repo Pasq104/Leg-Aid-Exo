@@ -17,10 +17,10 @@ The repository is structured into mechanical, electrical, software, and document
 ```
 leg-aid-exo/
 │
-├── hardware/         → Mechanical components (CAD, 3D print files, uprights, cuffs)
-├── electronics/      → PCB, wiring diagrams, sensors, motor interfaces
-├── software/         → Controller logic, configuration files, utilities
-├── guida/            → PDF guides and official OpenExo documentation
+├── Mechanics/         → Mechanical components (CAD, 3D print files, uprights, cuffs)
+├── Electronics/      → PCB, wiring diagrams, sensors, motor interfaces
+├── Software/         → Controller logic, configuration files, utilities
+├── Guida/            → PDF guides and official OpenExo documentation
 │
 ├── README.md         → Main documentation (this file)
 └── LICENSE           → Project license
